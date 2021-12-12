@@ -1,0 +1,10 @@
+installation instructions:
+1. install python 3.7 (dont forget to check the add to path box)
+2. open command prompt and enter these following commands:
+pip install pywin32
+pip install keyboard
+pip install pyautogui
+pip install opencv-python
+pip install pynput
+3. if you actually are going to use this bot for funky friday, go to the settings of the game and change your arrow size to 1.15
+4. click on the rainbow arrow next to the settings and change the rgb value of all of the arrows to 0, 0, 0
