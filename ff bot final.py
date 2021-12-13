@@ -17,8 +17,8 @@ while keyboard.is_pressed('q') == False:
         keyboard.press("s")
         keyboard.release("s")
     if pyautogui.pixel(729, 214)[0] == 0:
-        keyboard.press('o')
-        keyboard.release("o")
+        keyboard.press('w')
+        keyboard.release("w")
     if pyautogui.pixel(836, 214)[0] == 0:
-        keyboard.press('p')
-        keyboard.release("p")
+        keyboard.press('d')
+        keyboard.release("d")
